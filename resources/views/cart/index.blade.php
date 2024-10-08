@@ -4,6 +4,7 @@
 @section('title', 'Your Cart')
 
 @section('content')
+    <x-navbar></x-navbar>
     <div class="container mx-auto px-4 py-12">
         <h1 class="text-4xl font-extrabold text-gray-100 mb-8">Shopping Cart</h1>
 
